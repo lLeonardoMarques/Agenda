@@ -1,0 +1,6 @@
+{
+  "name": "Toque da Beleza",
+  "description": "Sistema de gestão e agendamento para salão de cabeleireiro com acompanhamento de clientes, histórico, relatórios de faturamento com Chart.js e API REST em Express conectada ao MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
